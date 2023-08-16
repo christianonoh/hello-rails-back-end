@@ -5,10 +5,10 @@
   <br/>
   <h3><b>Hello-rails-back-end</b></h3>
 </div>
-# 📗 Table of Contents
+<details>
+<summary> 📗 Table of Contents </summary>
 
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello-rails-back-end](#-Hello-rails-back-end)
+- [📖 Hello-rails-back-end](#about-project)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -18,16 +18,15 @@
     - [Install](#install)
     - [Usage](#usage)
     - [Run tests](#run-tests)
-  - [👥 Authors ](#-authors-)
+  - [👥 Authors ](#authors)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [🙏 Support](#support)
   - [🙏 Acknowledgements](#acknowledgements)
   - [📝 License ](#-license-)
+</details>
 
-# 📖 Hello-rails-back-end <a name="about-project">Hello-rails-back-end</a>
-
-## Welcome to Hello-rails-back-end - Your Budget App!
+## 📖 Hello-rails-back-end <a name="about-project">Hello-rails-back-end</a>
 
 Hello-rails-back-end is a rails Api app that manage the backend for a react app that dissplays a random greeting.
 
@@ -42,9 +41,13 @@ Link to react app: https://github.com/christianonoh/hello-react-front-end
   <ul>
     <li><a href="https://www.ruby-lang.org/es/">Ruby</a></li>
   </ul>
+</details>
+  <details>
+    <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">Postgresql</a></li>
   </ul>
+  </details>
 
 ### Key Features <a name="key-features"></a>
 
@@ -110,6 +113,7 @@ rubocop
 ```
 
 ## 👥 Author <a name="authors"></a>
+
 
 👤 **Christian Onoh**
 
